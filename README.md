@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/codeplea/fsghost.svg?branch=master)](https://travis-ci.org/codeplea/genann)
+[![Build Status](https://travis-ci.org/codeplea/fsghost.svg?branch=master)](https://travis-ci.org/codeplea/fsghost)
 
 #FsGhost - Cross-Platform File Change Monitoring in C
 
@@ -29,8 +29,8 @@ deleted, FsGhost will write that filename to the standard output.
 
 
 ##Building
-You can probably build by simply running `make`. If that doesn't work, try to simply compile
-`main.c`.
+You can probably build by simply running `make`. If that doesn't work, try to compile
+`main.c`. It should be pretty easy.
 
 ##FAQ
 ###Does FsGhost do polling.
