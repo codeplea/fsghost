@@ -28,6 +28,8 @@ FsGhost will then monitor that directory. If any files are created, written, or
 deleted, FsGhost will write that filename to the standard output.
 
 
+![Example Usage](./demo.gif)
+
 ##Building
 You can probably build by simply running `make`. If that doesn't work, try to compile
 `main.c`. It should be pretty easy.
