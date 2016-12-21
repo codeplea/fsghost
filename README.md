@@ -2,6 +2,8 @@
 
 #FsGhost - Cross-Platform File Change Monitoring in C
 
+<img alt="FsGhost logo" src="https://codeplea.com/public/content/fsghost_logo.png" align="right" />
+
 FsGhost is a *tiny* command-line tool to monitor and notify of file changes in a
 given directory. FsGhost works natively on both Windows and Linux and is
 self-contained in only 1 C file. Its only dependencies are the operating system
